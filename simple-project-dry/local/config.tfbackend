@@ -1,0 +1,5 @@
+bucket = "rshnaper-terraform"
+key    = "local/simple-project-dry/terraform.tfstate"
+region = "ca-central-1"
+endpoint = "http://localhost:4566"
+force_path_style = true

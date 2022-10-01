@@ -1,0 +1,3 @@
+bucket = "rshnaper-terraform"
+key    = "dev/simple-project-dry/terraform.tfstate"
+region = "ca-central-1"
